@@ -60,7 +60,7 @@ YOUR_LIVE_APP_URL
 
 ## Author
 
-Your Name
+Ajay Pandey
 
 ## Project Purpose
 
